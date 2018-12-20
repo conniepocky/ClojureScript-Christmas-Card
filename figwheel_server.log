@@ -1,0 +1,197 @@
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/susan_card.js" in 0.457 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/susan_card/core.js
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/susan_card.js" in 0.467 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/susan_card/core.js
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/susan_card.js" in 0.478 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/susan_card/core.js
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/susan_card.js" in 0.417 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/susan_card/core.js
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.212 seconds.[0m
+[36m----  Could not Read  src/susan_card/core.cljs   line:22 ----[0m
+
+  [1m/home/connie/Desktop/christmas_cards_2018/susan-card/src/susan_card/core.cljs [line 22, col 81] The map literal starting with :style on line 22 column 33 contains 3 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m20[0m  [36m[:div.text.instructions [:b "Hello!"][0m
+  [36m21[0m  [36m "(hover over the person to see stuff)"][0m
+  [33m22[0m  [1m[:div.text.hidden.about_sam {:style "font-family: Lobster;" "Hello I'm sam"}] [0m
+  [0m  [0m  [33m/home/connie/Desktop/christmas_cards_2018/susan-card/src/susan_card/core.cljs [line 22, col 81] The map literal starting with :style on line 22 column 33 contains 3 form(s). Map literals must contain an even number of forms.[0m
+  [36m23[0m  [36m[:div.text.hidden.about_marla "Hello I'm marla"][0m
+  [36m24[0m  [36m[:div.text.hidden.about_parker "Hello I'm parker"]]])[0m
+
+[36m----  Reader Error : Please see src/susan_card/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/susan_card.js" in 0.53 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/susan_card/core.js
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/susan_card.js" in 0.383 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/susan_card/core.js
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/susan_card.js" in 0.487 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/susan_card/core.js
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/susan_card.js" in 0.49 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/susan_card/core.js
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/susan_card.js" in 0.387 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/susan_card/core.js
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/susan_card.js" in 0.4 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/susan_card/core.js
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/susan_card.js" in 0.389 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/susan_card/core.js
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/susan_card.js" in 0.413 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/susan_card/core.js
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.211 seconds.[0m
+[36m----  Could not Read  src/susan_card/core.cljs   line:38 ----[0m
+
+  [1m/home/connie/Desktop/christmas_cards_2018/susan-card/src/susan_card/core.cljs [line 38, col 2] Unmatched delimiter ).[0m
+
+  [36m36[0m  [36m  ;; your application[0m
+  [36m37[0m  [36m  ;; (swap! app-state update-in [:__figwheel_counter] inc)[0m
+  [33m38[0m  [1m)[0m
+  [0m  [0m  [33m/home/connie/Desktop/christmas_cards_2018/susan-card/src/susan_card/core.cljs [line 38, col 2] Unmatched delimiter ).[0m
+
+[36m----  Reader Error : Please see src/susan_card/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.183 seconds.[0m
+[36m----  Could not Read  src/susan_card/core.cljs   line:36 ----[0m
+
+  [1m/home/connie/Desktop/christmas_cards_2018/susan-card/src/susan_card/core.cljs [line 36, col 2] Unmatched delimiter ).[0m
+
+  [36m34[0m  [36m  ;; your application[0m
+  [36m35[0m  [36m  ;; (swap! app-state update-in [:__figwheel_counter] inc)[0m
+  [33m36[0m  [1m)[0m
+  [0m  [0m  [33m/home/connie/Desktop/christmas_cards_2018/susan-card/src/susan_card/core.cljs [line 36, col 2] Unmatched delimiter ).[0m
+
+[36m----  Reader Error : Please see src/susan_card/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.232 seconds.[0m
+[36m----  Could not Read  src/susan_card/core.cljs   line:36 ----[0m
+
+  [1m/home/connie/Desktop/christmas_cards_2018/susan-card/src/susan_card/core.cljs [line 36, col 2] Unmatched delimiter ).[0m
+
+  [36m34[0m  [36m  ;; your application[0m
+  [36m35[0m  [36m  ;; (swap! app-state update-in [:__figwheel_counter] inc)[0m
+  [33m36[0m  [1m)[0m
+  [0m  [0m  [33m/home/connie/Desktop/christmas_cards_2018/susan-card/src/susan_card/core.cljs [line 36, col 2] Unmatched delimiter ).[0m
+
+[36m----  Reader Error : Please see src/susan_card/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/susan_card.js" in 0.488 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/susan_card/core.js
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.207 seconds.[0m
+[36m----  Could not Read  src/susan_card/core.cljs   line:36 ----[0m
+
+  [1m/home/connie/Desktop/christmas_cards_2018/susan-card/src/susan_card/core.cljs [line 36, col 2] Unmatched delimiter ).[0m
+
+  [36m34[0m  [36m  ;; your application[0m
+  [36m35[0m  [36m  ;; (swap! app-state update-in [:__figwheel_counter] inc)[0m
+  [33m36[0m  [1m)[0m
+  [0m  [0m  [33m/home/connie/Desktop/christmas_cards_2018/susan-card/src/susan_card/core.cljs [line 36, col 2] Unmatched delimiter ).[0m
+
+[36m----  Reader Error : Please see src/susan_card/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/susan_card.js" in 0.415 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/susan_card/core.js
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/susan_card.js" in 0.457 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/susan_card/core.js
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/susan_card.js" in 0.418 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/susan_card/core.js
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/susan_card.js" in 0.443 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/susan_card/core.js
+Notifying browser that CSS file changed: resources/public/css/style.css
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/susan_card.js" in 0.435 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/susan_card/core.js
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/susan_card.js" in 0.385 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/susan_card/core.js
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/susan_card.js" in 0.411 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/susan_card/core.js
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/susan_card.js" in 0.384 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/susan_card/core.js
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/susan_card.js" in 0.429 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/susan_card/core.js
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/susan_card.js" in 0.433 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/susan_card/core.js
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/susan_card.js" in 0.512 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/susan_card/core.js
+Compiling build :dev to "resources/public/js/compiled/susan_card.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/susan_card.js" in 0.497 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/susan_card/core.js
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css

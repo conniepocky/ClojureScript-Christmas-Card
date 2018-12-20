@@ -1,0 +1,122 @@
+/* some style */
+
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+body {
+	font-family: Lobster;
+	color: gold;
+	background-color: #99B4EC; 
+	font-size: 25px;
+}
+
+.text {
+	background-color: #BC4141;
+	border-radius: 25px;
+}
+
+img {
+	width: 500px;	
+}
+
+h3 {
+	font-size: 35px;
+}
+body{
+	margin: 0;
+  line-height: 1;
+}
+
+.page{
+  box-sizing: border-box;
+  padding: 20px;
+  width: 790px;
+  max-width: 790px;
+  min-width: 790px;
+  height: 360px;
+  max-height: 360px;
+  min-height: 360px;
+  background: url(http://www.freevector.com/site_media/preview_images/FreeVector-Vector-Geometric-Background.jpg);
+  border: 5px solid #cc3333;
+  position: relative;
+}
+.red_bar{
+  position: absolute;
+  width: 785px;
+  height: 25px;
+  background: -webkit-linear-gradient(#a32929, #cc3333);
+  background: -o-linear-gradient(#a32929, #cc3333);
+  background: -moz-linear-gradient(#a32929, #cc3333);
+  background: linear-gradient(#a32929, #cc3333);
+  left: 0px;
+  top: 115px;    
+}
+.family_photo {
+  height: 300px;
+  width: 450px;
+  position: relative;
+  float: left;
+  border: 5px solid #a32929;
+  background-image: url("https://previews.123rf.com/images/jtxie/jtxie1102/jtxie110200328/9775358-santa-claus-reindeer-elf.jpg");
+  background-size: 400px;
+}
+.family{
+  position: absolute;
+  border: none;
+}
+
+.sam{
+  height: 210px;
+  width: 110px;
+  top: 68px;
+  left: 97px;
+}
+.marla{
+  height: 200px;
+  width: 170px;
+  top: 78px;
+  left: 220px;
+}
+.parker{
+  height: 155px;
+  width: 70px;
+  top: 120px;
+  left: 175px;
+}
+.greeting{
+  font-size: 1.7em;
+  font-weight: bold;
+  float: right;
+  color: #a32929;
+}
+.greeting img{
+  height: auto;
+  width: 225px;
+  padding: 0 28px 0 0;
+  margin-top: -10px;
+}
+.text{
+  float: right;
+  width: 262px;
+  clear: right;
+  margin: 45px 0 0 0;
+}
+.hidden{
+  display: none;
+  font-size: .9em;
+  
+}
+.instructions{
+  font-size: 1.3em;
+}
+.family:hover ~ .instructions{
+  display: none;
+}
+.sam:hover ~ .about_sam,
+.sam:active ~ .about_sam,
+.parker:hover ~ .about_parker,
+.parker:active ~ .about_parker,
+.marla:active ~ .about_marla,
+.marla:hover ~ .about_marla{
+  display: block;
+}
+

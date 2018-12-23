@@ -1,6 +1,6 @@
-# Github Card
+# GitHub Card
 
-FIXME: Write a one-line description of your library/project.
+Merry Christmas 2018 GitHub!
 
 ## Overview
 

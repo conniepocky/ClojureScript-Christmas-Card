@@ -203,7 +203,7 @@ return false;
 } else {
 return cljs.core.native_satisfies_QMARK_.call(null,devtools.format.IDevtoolsFormat,obj);
 }
-}catch (e23380){var _e__22358__auto__ = e23380;
+}catch (e23380){var _e__22360__auto__ = e23380;
 return false;
 }})();
 if(cljs.core.truth_(or__3922__auto__)){
@@ -222,7 +222,7 @@ return false;
 } else {
 return cljs.core.native_satisfies_QMARK_.call(null,devtools.protocols.IFormat,obj);
 }
-}catch (e23382){var _e__22358__auto__ = e23382;
+}catch (e23382){var _e__22360__auto__ = e23382;
 return false;
 }}
 })())){
@@ -294,4 +294,4 @@ return cljs.core._pr_writer.call(null,value,writer,opts);
 }));
 });
 
-//# sourceMappingURL=printing.js.map?rel=1545334052690
+//# sourceMappingURL=printing.js.map?rel=1577120273007

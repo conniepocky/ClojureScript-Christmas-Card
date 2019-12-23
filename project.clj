@@ -1,4 +1,4 @@
-(defproject susan-card "0.1.0-SNAPSHOT"
+(defproject xmas-card "0.1.0-SNAPSHOT"
   :description "FIXME: write this!"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
@@ -36,7 +36,7 @@
                            :asset-path "js/compiled/out"
                            :output-to "resources/public/js/compiled/susan_card.js"
                            :output-dir "resources/public/js/compiled/out"
-                           :source-map-timestamp true
+                           :source-map-timestamp true}}
                            ;; To console.log CLJS data-structures make sure you enable devtools in Chrome
                            ;; https://github.com/binaryage/cljs-devtools
                            :preloads [devtools.preload]}}
@@ -48,13 +48,13 @@
                 :compiler {:output-to "resources/public/js/compiled/susan_card.js"
                            :main susan-card.core
                            :optimizations :advanced
-                           :pretty-print false}}]}
+                           :pretty-print false}]}
 
   :figwheel {;; :http-server-root "public" ;; default and assumes "resources"
              ;; :server-port 3449 ;; default
              ;; :server-ip "127.0.0.1"
 
-             :css-dirs ["resources/public/css"] ;; watch and update CSS
+             :css-dirs ["resources/public/css"]} ;; watch and update CSS
 
              ;; Start an nREPL server into the running figwheel process
              ;; :nrepl-port 7888
@@ -87,7 +87,7 @@
 
              ;; to pipe all the output to the repl
              ;; :server-logfile false
-             }
+             
 
 
   ;; Setting up nREPL for Figwheel and ClojureScript dev
@@ -95,7 +95,7 @@
   ;; https://github.com/bhauman/lein-figwheel/wiki/Using-the-Figwheel-REPL-within-NRepl
   :profiles {:dev {:dependencies [[binaryage/devtools "0.9.9"]
                                   [figwheel-sidecar "0.5.16"]
-                                  [cider/piggieback "0.3.1"]]
+                                  [cider/piggieback "0.3.1"]
                    ;; need to add dev source path here to get user.clj loaded
                    :source-paths ["src" "dev"]
                    ;; for CIDER
@@ -103,4 +103,4 @@
                    :repl-options {:nrepl-middleware [cider.piggieback/wrap-cljs-repl]}
                    ;; need to add the compliled assets to the :clean-targets
                    :clean-targets ^{:protect false} ["resources/public/js/compiled"
-                                                     :target-path]}})
+                                                     :target-path)
